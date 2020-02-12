@@ -4,7 +4,10 @@ Initial Function()
 {
   //Sample Code
 }
-
+final function1()
+{ 
+//function commit from feature1
+}
 Initial Security()
 {
  //Sample Code
